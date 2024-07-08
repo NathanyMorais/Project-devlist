@@ -1,0 +1,5 @@
+package com.devsuperior.devlist.dto;
+
+public class GameDTO {
+
+}

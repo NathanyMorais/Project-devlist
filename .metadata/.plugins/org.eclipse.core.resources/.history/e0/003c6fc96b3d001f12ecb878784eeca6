@@ -1,0 +1,5 @@
+package com.devsuperior.devlist.controllers;
+
+public class GameController {
+
+}

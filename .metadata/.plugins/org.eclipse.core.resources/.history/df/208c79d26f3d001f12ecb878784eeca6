@@ -1,0 +1,5 @@
+package com.devsuperior.devlist.entities;
+
+public class GameList {
+
+}
